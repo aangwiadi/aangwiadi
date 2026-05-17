@@ -27,4 +27,4 @@ I build scalable backend systems, Docker infrastructure, IoT platforms, and ente
 ## 📫 Contact
 - [Aang Wiadi](https://www.linkedin.com/in/aangwiadi/)
 - aang.wiadi@gmail.com
-- [Lalakon] https://lalakon.com/
+- [Lalakon] (https://lalakon.com/)

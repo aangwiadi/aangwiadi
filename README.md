@@ -19,6 +19,10 @@ I build scalable backend systems, Docker infrastructure, IoT platforms, and ente
 
 ## 🔥 Featured Projects
 - HRIS Payroll System
+- Finance/Accounting System
+- Logistik/Freight Forwarding System
+- Vending Machine Ticket
+- Management School System
 - Docker Monitoring Stack
 - IoT Monitoring Platform
 - Secure MQTT Infrastructure
